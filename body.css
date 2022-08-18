@@ -1,2 +1,6 @@
-h1 { background-color: blue; }
+/* h1 { background-color: blue; } */
+header {
+  background: black;
+  color: white;
+} 
 
